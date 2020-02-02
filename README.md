@@ -1,6 +1,6 @@
 # 2019nCov_archive
 Personal archive for the novel corona virus. With a focus on news, Douban posts, sceintific articles, and conspiracy theories.
-We shall not forget.
+**We shall not forget.**
 
 ====================================
 
